@@ -1,0 +1,36 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "teclado Apple",
+            "valor": 125.90,
+            "promocao": true,
+            "valorPromo": 120.00,
+            "imagem": "1.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "headPhone",
+            "valor": 95.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "2.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "mouse",
+            "valor": 25.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "3.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Monitor",
+            "valor": 395.90,
+            "promocao": true,
+            "valorPromo": 350.00,
+            "imagem": "4.jpg"
+        }
+    ]
+}
